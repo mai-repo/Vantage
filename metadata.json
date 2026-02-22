@@ -1,0 +1,5 @@
+{
+  "name": "Vantage: Artist Growth Intelligence",
+  "description": "Strategic performance dashboard for independent artists to identify growth markets and benchmark against peers using Chartmetric and JamBase data.",
+  "requestFramePermissions": ["geolocation"]
+}
